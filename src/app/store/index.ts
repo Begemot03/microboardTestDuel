@@ -1,0 +1,3 @@
+export {
+    mainStore
+} from "./mainStore";
